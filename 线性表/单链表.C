@@ -16,12 +16,12 @@ typedef struct LNode
 //-----单链表的基本操作-----
 Status InitList(LinkList *L);                       //初始化
 Status GetElem(LinkList L, int i, ElemType *e);     //取值
-LNode *LocateElem(LinkList L, ElemType e);             //查找
+LNode *LocateElem(LinkList L, ElemType e);          //查找
 Status ListInsert(LinkList *L, int i, ElemType e);  //插入
 Status ListDelete(LinkList *L, int i);              //删除
 void print(LinkList L);                             //打印
-void CreateList_H(LinkList *L, int n); //头插法创建单链表
-void CreateList_T(LinkList *L, int n); //尾插法创建单链表
+void CreateList_H(LinkList *L, int n);              //头插法创建单链表
+void CreateList_T(LinkList *L, int n);              //尾插法创建单链表
 
 void main()
 {
