@@ -84,9 +84,15 @@ void main()
 
 	//测试结点数统计
 	printf("\n\n二叉树T的结点数为:%d\n", NodeCount(T));
-	//测试统计度为0的结点fail.....
+	//测试统计度为0的结点
 	printf("\n\n二叉树T中度为0的结点数为:%d\n", 
 		NodeCountByDegree(T, ZERO_DEGREE));
+	//测试统计度为1的结点
+	printf("\n\n二叉树T中度为1的结点数为:%d\n", 
+		NodeCountByDegree(T, ONE_DEGREE));
+	//测试统计度为1的结点
+	printf("\n\n二叉树T中度为2的结点数为:%d\n", 
+		NodeCountByDegree(T, TWO_DEGREE));
 	printf("\n");
 
 }
@@ -313,13 +319,13 @@ int NodeCountByDegree(BiTree T, int degree)
 		switch(degree)
 		{
 		case ZERO_DEGREE:
-			count = !(l&r) ? (l+r+1) : 0;
+			count = (!T->lchild && !T->rchild) ? (l+r+1) : l+r;
 			break;
 		case ONE_DEGREE:
-			count = (l^r) ? (l+r+1) : 0;
+			count = (!T->lchild&&T->rchild)||(T->lchild&&!T->rchild) ? (l+r+1) : l+r;
 			break;
 		case TWO_DEGREE:
-			count = (l&r) ? (l+r+1) : 0;
+			count = (T->lchild && T->rchild) ? (l+r+1) : l+r;
 			break;
 		}
 	}
