@@ -56,12 +56,17 @@ void main()
 	BiThrTree head;    //头结点
 
 	//创建二叉树
+	//测试数据:1 2 3 0 0 4 5 0 0 0 6 7 0 0 0
 	InitBiTree(&BT);
 	printf("\n请前序输入二叉结点的值:\n");
 	CreateBiTree(&BT);
 
 	//测试创建线索二叉树
 	InitBiThrTree(&T, BT);
+
+	//测试前序线索化
+	PreOrderThreading(&head, T);
+	PreOrderTraverse_Thr(head);
 }
 
 void InitBiThrTree(BiThrTree *T, BiTree BT)
