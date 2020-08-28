@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f3d4525-aae5-4525-95cc-0ef5ab3ecc55" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven\apache-maven-3.6\RepMaven" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.6\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TXh5yZeZN7nu2AVCHhK6eInJxn" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prim" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.chocho" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.chocho.prim" />
+      <recent name="com.chocho.TEST" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\工程实践2\src\main" />
+      <recent name="H:\工程实践2\src\java" />
+      <recent name="H:\工程实践2\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.queue.ArrayQueueDemo" />
+      <module name="工程实践2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.prim.Main" />
+      <module name="工程实践2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.prim.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chocho.sparsearray.SparseArray" />
+      <module name="工程实践2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chocho.sparsearray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayQueueDemo" />
+        <item itemvalue="Application.SparseArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f3d4525-aae5-4525-95cc-0ef5ab3ecc55" name="Default Changelist" comment="" />
+      <created>1573612167207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573612167207</updated>
+      <workItem from="1573612169828" duration="5341000" />
+      <workItem from="1573813552011" duration="4728000" />
+      <workItem from="1573967100428" duration="224000" />
+      <workItem from="1573971111383" duration="3481000" />
+      <workItem from="1574048048457" duration="90000" />
+      <workItem from="1574079201802" duration="6370000" />
+      <workItem from="1574612342613" duration="7284000" />
+      <workItem from="1574647565371" duration="235000" />
+      <workItem from="1574648190230" duration="3478000" />
+      <workItem from="1574716037302" duration="637000" />
+      <workItem from="1574761369593" duration="1526000" />
+      <workItem from="1575097485387" duration="1158000" />
+      <workItem from="1575638425641" duration="2302000" />
+      <workItem from="1575707882401" duration="1864000" />
+      <workItem from="1576048527348" duration="90000" />
+      <workItem from="1576102542438" duration="3873000" />
+      <workItem from="1576149375862" duration="478000" />
+      <workItem from="1576160030402" duration="643000" />
+      <workItem from="1576317417238" duration="647000" />
+      <workItem from="1576328885787" duration="44000" />
+      <workItem from="1576371487677" duration="339000" />
+      <workItem from="1576486580435" duration="174000" />
+      <workItem from="1577111469987" duration="3631000" />
+      <workItem from="1577169792495" duration="155000" />
+      <workItem from="1577427399538" duration="2413000" />
+      <workItem from="1577516875733" duration="808000" />
+      <workItem from="1577895623082" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
